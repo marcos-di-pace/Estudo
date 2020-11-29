@@ -1,2 +1,2 @@
 # Estudo
- Exemplos de aplicação, exercícios e respostas
+ Exemplos de aplicação, exercícios e respostas.
