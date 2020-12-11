@@ -1,5 +1,6 @@
-function divisao(dividendo, divisor) {
-    
+function divisao (dividendo, divisor) {
+    console.log("Resultado: " + Math.floor(dividendo / divisor));
+    console.log(`Resto: ${dividendo % divisor}`)
 }
 
-console.log(divisao(10, 3))
+divisao(11, 4)
